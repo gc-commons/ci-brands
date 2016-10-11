@@ -1,6 +1,6 @@
 {
   "name": "ci-brands",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Brands service which manages the logic for all the brands used.",
   "main": "src/brands.service.js",
   "authors": [
